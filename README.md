@@ -31,6 +31,18 @@ Através da API da Alura Voz, teremos acesso à base de dados e às suas informa
 
 * Inclusão da informação gastos diários
 
+:heavy_check_mark: Semana 2
+
+Efetuar as seguintes análises:
+
+* Analisar a variável target: Churn (Cancelado)
+
+* Visualizar a distribuição da variável target: Churn
+
+* Criar visualizações relevantes em relação ao Churn
+
+* Analisar a correlação das variáveis
+
 # Tecnologias utilizadas
 
 * Jupyter Notebook
