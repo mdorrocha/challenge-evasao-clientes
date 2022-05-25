@@ -21,11 +21,11 @@ Inicialmente é necessário investigar algumas características de clientes ou d
 
 Através da API da Alura Voz, teremos acesso à base de dados e às suas informações. Os seguintes tratamentos nos dados foram realizados:
 
-* Normalização do arquivo json;
+* Normalização do arquivo json
 
-* Conversão de tipos das colunas;
+* Conversão de tipos das colunas
 
-* Exclusão de linhas;
+* Exclusão de linhas
 
 * Tradução das colunas
 
@@ -33,6 +33,7 @@ Através da API da Alura Voz, teremos acesso à base de dados e às suas informa
 
 # Tecnologias utilizadas
 
+* Jupyter Notebook
 * Python
 * Pandas
-* MatPlotLib
+* Seaborn
