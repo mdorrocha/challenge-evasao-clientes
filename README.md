@@ -43,9 +43,22 @@ Efetuar as seguintes análises:
 
 * Analisar a correlação das variáveis
 
+:heavy_check_mark: Semana 3
+
+* Aplicar encoding nos dados
+
+* Verificar se a variável target está desbalanceada
+
+* Criar dois ou mais modelos de Machine Learning
+
+* Avaliar os modelos usando métricas de ML
+
+* Escolher o melhor modelo e otimizá-lo
+
 # Tecnologias utilizadas
 
 * Jupyter Notebook
 * Python
 * Pandas
 * Seaborn
+* Scikit-learn
