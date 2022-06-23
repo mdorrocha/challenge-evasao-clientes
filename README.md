@@ -31,7 +31,7 @@ Através da API da Alura Voz, teremos acesso à base de dados e às suas informa
 
 * Inclusão da informação gastos diários
 
-[Notebook da semana 1:](https://github.com/mdorrocha/challenge-evasao-clientes/blob/main/data_science_semana_1.ipynb) 
+[Notebook da semana 1](https://github.com/mdorrocha/challenge-evasao-clientes/blob/main/data_science_semana_1.ipynb) 
 
 :heavy_check_mark: Semana 2
 
@@ -45,7 +45,7 @@ Efetuar as seguintes análises:
 
 * Analisar a correlação das variáveis
 
-[Notebook da semana 1:](https://github.com/mdorrocha/challenge-evasao-clientes/blob/main/data_science_semana_2.ipynb)
+[Notebook da semana 2](https://github.com/mdorrocha/challenge-evasao-clientes/blob/main/data_science_semana_2.ipynb)
 
 :heavy_check_mark: Semana 3
 
@@ -59,7 +59,7 @@ Efetuar as seguintes análises:
 
 * Escolher o melhor modelo e otimizá-lo
 
-[Notebook da semana 1:](https://github.com/mdorrocha/challenge-evasao-clientes/blob/main/data_science_semana_3.ipynb)
+[Notebook da semana 3](https://github.com/mdorrocha/challenge-evasao-clientes/blob/main/data_science_semana_3.ipynb)
 
 # Tecnologias utilizadas
 
