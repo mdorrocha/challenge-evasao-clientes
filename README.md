@@ -31,6 +31,8 @@ Através da API da Alura Voz, teremos acesso à base de dados e às suas informa
 
 * Inclusão da informação gastos diários
 
+[Notebook da semana 1:](https://github.com/mdorrocha/challenge-evasao-clientes/blob/main/data_science_semana_1.ipynb) 
+
 :heavy_check_mark: Semana 2
 
 Efetuar as seguintes análises:
@@ -43,6 +45,8 @@ Efetuar as seguintes análises:
 
 * Analisar a correlação das variáveis
 
+[Notebook da semana 1:](https://github.com/mdorrocha/challenge-evasao-clientes/blob/main/data_science_semana_2.ipynb)
+
 :heavy_check_mark: Semana 3
 
 * Aplicar encoding nos dados
@@ -54,6 +58,8 @@ Efetuar as seguintes análises:
 * Avaliar os modelos usando métricas de ML
 
 * Escolher o melhor modelo e otimizá-lo
+
+[Notebook da semana 1:](https://github.com/mdorrocha/challenge-evasao-clientes/blob/main/data_science_semana_3.ipynb)
 
 # Tecnologias utilizadas
 
